@@ -18,3 +18,4 @@ Rubric
 | Save the Web page as ite152.html | 2/2 |
 | Validate the Web page using the World Wide Web Consortium validation site. Apply HTML5 validation. | 2/2 |
 | Submit the assignment using the proper format. | 8/8 |
+![ZEp5moy](https://github.com/Lickem1/ITE-WebProj/assets/15642360/663e8aa1-56aa-4484-846f-6000026ac3ff)
